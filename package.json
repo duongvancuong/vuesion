@@ -91,6 +91,7 @@
     "@types/node": "10.12.24",
     "@types/serve-favicon": "2.2.30",
     "@vue/test-utils": "1.0.0-beta.28",
+    "@vuesion/addon-theme-switcher": "^3.0.2",
     "@vuesion/service": "^3.0.2",
     "axios-mock-adapter": "1.17.0",
     "husky": "3.0.2",

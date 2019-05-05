@@ -211,6 +211,6 @@ export default {
 }
 
 .error {
-  border: 1px solid $brand-danger;
+  border: 1px solid var(--brand-danger);
 }
 </style>
